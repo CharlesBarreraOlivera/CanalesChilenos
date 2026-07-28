@@ -1,7 +1,13 @@
 [
   {
-    "nombre": "TVN HD hhhh",
+    "nombre": "TVN HD",
     "url": "http://15.204.246.24:8080/TVNHD/index.m3u8",
+    "logo": "https://ejemplo.com/logos/tvn.png",
+    "categoria": "Chile"
+  },
+  {
+    "nombre": "TV Chile HD",
+    "url": "https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8",
     "logo": "https://ejemplo.com/logos/tvn.png",
     "categoria": "Chile"
   },
