@@ -1,31 +1,4 @@
-package com.papa.canaleschilenos.model
-
-/**
- * Representa un canal de televisión.
- * nombre: lo que ve el usuario en la lista.
- * url: el link directo al archivo .m3u8 de ese canal.
- * logoUrl: link a una imagen del logo del canal (puede quedar null si no tienes uno).
- * categoria: para agruparlo en el menú horizontal (ej: "Chile", "Deporte", "Noticias").
- */
-data class Channel(
-    val nombre: String,
-    val url: String,
-    val logoUrl: String? = null,
-    val categoria: String = "Chile"
-)
-
-/**
- * Lista de canales que se usa SOLO como respaldo:
- * - la primera vez que se abre la app sin internet, o
- * - si la lista remota (ver RemoteChannelLoader.kt) no está configurada o falla.
- *
- * IMPORTANTE: para actualizar los canales SIN recompilar la app, no edites esto:
- * usa el archivo canales.json remoto (ver LEEME.md, sección "Actualizar canales
- * sin recompilar"). Esta lista de aquí es solo el plan B.
- */
-object ChannelRepository {
-
-    fun obtenerCanalesLocales(): List<Channel> = listOf(
+{
         Channel(
             nombre = "TVN HD",
             //url = "http://45.162.193.35/TVN/index.m3u8",
@@ -33,58 +6,60 @@ object ChannelRepository {
             logoUrl = "https://ejemplo.com/logos/tvn.png",
             categoria = "Chile"
         ),
+        {
         Channel(
             nombre = "CANAL 13 HD",
             url = "http://45.162.193.35/CANAL13_HD/index.m3u8",
             logoUrl = "https://ejemplo.com/logos/canal13.png",
             categoria = "Chile"
         ),
+        {
         Channel(
             nombre = "Mega SD",
             url = "https://pantera1-100gb-cl-movistar.dps.live/mega/mega.smil/playlist.m3u8",
             logoUrl = "https://ejemplo.com/logos/mega.png",
             categoria = "Chile"
         ),
+        {
         Channel(
             nombre = "Chilevisión",
             url = "https://ejemplo.com/chv/index.m3u8",
             logoUrl = "https://ejemplo.com/logos/chv.png",
             categoria = "Chile"
         ),
+        {
         Channel(
             nombre = "La Red",
             url = "https://ejemplo.com/lared/index.m3u8",
             logoUrl = "https://ejemplo.com/logos/lared.png",
             categoria = "Chile"
         ),
+        {
         Channel(
             nombre = "Tennis Channel",
             url = "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8",
             logoUrl = "https://ejemplo.com/logos/lared.png",
             categoria = "Deporte"
         ),
+        {
         Channel(
             nombre = "Tennis Channel 2 (720p)",
             url = "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8",
             logoUrl = "https://ejemplo.com/logos/lared.png",
             categoria = "Deporte"
         ),
+        {
         Channel(
             nombre = "TNT Sports Premiun HD",
             url = "http://45.232.210.1:18000/play/a05l/index.m3u8",
             logoUrl = "https://.../logo.png",
             categoria = "Deporte"
         ),
+        {
         Channel(
             nombre = "TNT Sports Premiun HD",
             url = "http://38.226.49.253:8000/play/a06f/index.m3u8",
             logoUrl = "https://.../logo.png",
             categoria = "Deporte")
-
-        // Channel("Nombre", "https://.../stream.m3u8", "https://.../logo.png", "Categoria"),
-        // Channel("Nombre", "https://.../stream.m3u8", "https://.../logo.png", "Categoria"),
-    )
-
-    /** Nombre de la categoría que agrupa "todos los canales" en el menú horizontal. */
-    const val CATEGORIA_TODOS = "Todos"
+        )
 }
