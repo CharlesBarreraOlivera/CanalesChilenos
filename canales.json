@@ -1,3 +1,4 @@
+[
 {
         Channel(
             nombre = "TVN HD",
@@ -63,3 +64,4 @@
             categoria = "Deporte")
         )
 }
+]
