@@ -1,18 +1,47 @@
-Channel(
-            nombre = "TVN",
-            url = "https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8",
-            logoUrl = "",
+package com.papa.canaleschilenos.model
+
+/**
+ * Representa un canal de televisión.
+ * nombre: lo que ve el usuario en la lista.
+ * url: el link directo al archivo .m3u8 de ese canal.
+ * logoUrl: link a una imagen del logo del canal (puede quedar null si no tienes uno).
+ * categoria: para agruparlo en el menú horizontal (ej: "Chile", "Deporte", "Noticias").
+ */
+data class Channel(
+    val nombre: String,
+    val url: String,
+    val logoUrl: String? = null,
+    val categoria: String = "Chile"
+)
+
+/**
+ * Lista de canales que se usa SOLO como respaldo:
+ * - la primera vez que se abre la app sin internet, o
+ * - si la lista remota (ver RemoteChannelLoader.kt) no está configurada o falla.
+ *
+ * IMPORTANTE: para actualizar los canales SIN recompilar la app, no edites esto:
+ * usa el archivo canales.json remoto (ver LEEME.md, sección "Actualizar canales
+ * sin recompilar"). Esta lista de aquí es solo el plan B.
+ */
+object ChannelRepository {
+
+    fun obtenerCanalesLocales(): List<Channel> = listOf(
+        Channel(
+            nombre = "TVN HD",
+            //url = "http://45.162.193.35/TVN/index.m3u8",
+            url = "http://15.204.246.24:8080/TVNHD/index.m3u8",
+            logoUrl = "https://ejemplo.com/logos/tvn.png",
             categoria = "Chile"
         ),
         Channel(
-            nombre = "CANAL 13 SD",
-            url = "https://pantera1-100gb-cl-movistar.dps.live/t13radio/t13radio.smil/playlist.m3u8",
+            nombre = "CANAL 13 HD",
+            url = "http://45.162.193.35/CANAL13_HD/index.m3u8",
             logoUrl = "https://ejemplo.com/logos/canal13.png",
             categoria = "Chile"
         ),
         Channel(
-            nombre = "Mega",
-            url = "https://ejemplo.com/mega/index.m3u8",
+            nombre = "Mega SD",
+            url = "https://pantera1-100gb-cl-movistar.dps.live/mega/mega.smil/playlist.m3u8",
             logoUrl = "https://ejemplo.com/logos/mega.png",
             categoria = "Chile"
         ),
@@ -44,7 +73,7 @@ Channel(
             nombre = "TNT Sports Premiun HD",
             url = "http://45.232.210.1:18000/play/a05l/index.m3u8",
             logoUrl = "https://.../logo.png",
-            categoria = "Deporte"
+            "Deporte"
         ),
         Channel(
             nombre = "TNT Sports Premiun HD",
@@ -55,3 +84,7 @@ Channel(
         // Channel("Nombre", "https://.../stream.m3u8", "https://.../logo.png", "Categoria"),
         // Channel("Nombre", "https://.../stream.m3u8", "https://.../logo.png", "Categoria"),
     )
+
+    /** Nombre de la categoría que agrupa "todos los canales" en el menú horizontal. */
+    const val CATEGORIA_TODOS = "Todos"
+}
