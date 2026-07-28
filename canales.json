@@ -42,6 +42,13 @@
     "categoria": "Chile"
   },
   {
+    "nombre": "La Chilena TV",
+    "url": "https://vdochile.com:3134/stream/play.m3u8",
+    "logo": "https://ejemplo.com/logos/lared.png",
+    "categoria": "Chile"
+  },
+  // DEPORTES
+  {
     "nombre": "Tennis Channel",
     "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8",
     "logo": "https://ejemplo.com/logos/lared.png",
