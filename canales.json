@@ -47,7 +47,6 @@
     "logo": "https://ejemplo.com/logos/lared.png",
     "categoria": "Chile"
   },
-  // DEPORTES
   {
     "nombre": "Tennis Channel",
     "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8",
