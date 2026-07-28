@@ -13,7 +13,7 @@
   },
   {
     "nombre": "Canal 13 HD",
-    "url": "http://45.162.193.35/CANAL13_HD/index.m3u8",
+    "url": "http://15.204.246.24:8080/Canal13HD/index.m3u8",
     "logo": "https://ejemplo.com/logos/canal13.png",
     "categoria": "Chile"
   },
