@@ -1,4 +1,4 @@
-            nombre = "gggTVN",
+            nombre = "TVN",
             url = "https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8",
             logoUrl = "",
             categoria = "Chile"
@@ -40,16 +40,16 @@
             categoria = "Deporte"
         ),
         Channel(
-            "TNT Sports Premiun HD",
-            "http://45.232.210.1:18000/play/a05l/index.m3u8",
-            "https://.../logo.png",
-            "Deporte"
+            nombre = "TNT Sports Premiun HD",
+            url = "http://45.232.210.1:18000/play/a05l/index.m3u8",
+            logoUrl = "https://.../logo.png",
+            categoria = "Deporte"
         ),
         Channel(
-            "TNT Sports Premiun HD",
-            "http://38.226.49.253:8000/play/a06f/index.m3u8",
-            "https://.../logo.png",
-            "Deporte"),
+           nombre = "TNT Sports Premiun HD",
+           url = "http://38.226.49.253:8000/play/a06f/index.m3u8",
+           logoUrl = "https://.../logo.png",
+           categoria = "Deporte"),
 
         // Channel("Nombre", "https://.../stream.m3u8", "https://.../logo.png", "Categoria"),
         // Channel("Nombre", "https://.../stream.m3u8", "https://.../logo.png", "Categoria"),
