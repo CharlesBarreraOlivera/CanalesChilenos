@@ -19,7 +19,7 @@
   },
   {
     "nombre": "Canal 13 En Vivo",
-    "url": "https:\\redirector.dps.live\hls\t13\playlist.m3u8",
+    "url": "https://redirector.dps.live/hls/t13/playlist.m3u8",
     "logo": "https://ejemplo.com/logos/canal13.png",
     "categoria": "Chile"
   },
