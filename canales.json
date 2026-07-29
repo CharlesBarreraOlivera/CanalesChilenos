@@ -14,7 +14,7 @@
   {
     "nombre": "Canal 13 HD",
     "url": "http://45.162.193.35/CANAL13_HD/index.m3u8",
-    "logo": "https://github.com/CharlesBarreraOlivera/icono-para-iptv/blob/main/canal-13.png",
+    "logo": "https://raw.githubusercontent.com/CharlesBarreraOlivera/icono-para-iptv/refs/heads/main/canal-13.png",
     "categoria": "Chile"
   },
   {
