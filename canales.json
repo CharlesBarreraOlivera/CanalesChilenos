@@ -25,7 +25,7 @@
   },
     {
     "nombre": "Canal T13 En Vivo",
-    "url": "https://redirector.dps.live/hls/t13/playlist.m3u8",
+    "url": "https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8",
     "logo": "https://raw.githubusercontent.com/CharlesBarreraOlivera/icono-para-iptv/main/canal-t13-en-vivo.png",
     "categoria": "Chile"
   },
