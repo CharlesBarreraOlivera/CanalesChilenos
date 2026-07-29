@@ -18,9 +18,9 @@
     "categoria": "Chile"
   },
   {
-    "nombre": "Canal 13 En Vivo",
+    "nombre": "Canal 13C",
     "url": "https://redirector.dps.live/hls/t13/playlist.m3u8",
-    "logo": "https://ejemplo.com/logos/canal13.png",
+    "logo": "https://raw.githubusercontent.com/CharlesBarreraOlivera/icono-para-iptv/main/canal-13c.png",
     "categoria": "Chile"
   },
   {
