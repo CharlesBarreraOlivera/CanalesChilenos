@@ -139,7 +139,7 @@
   },
   {
     "nombre": "Retro Music TV",
-    "url": "https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8",
+    "url": "https://live.muzickatv.mk/live/StarMusic.m3u8",
     "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/retro-cz.png",
     "categoria": "Musica"
   },
