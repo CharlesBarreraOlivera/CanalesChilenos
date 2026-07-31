@@ -1,5 +1,11 @@
 [
   {
+    "nombre": "CANAL DE PRUEVA",
+    "url": "https://rudo.video/live/13pop",
+    "logo": "https://raw.githubusercontent.com/CharlesBarreraOlivera/icono-para-iptv/refs/heads/main/tvn.png",
+    "categoria": "Chile"
+  },
+  {
     "nombre": "TVN HD",
     "url": "http://15.204.246.24:8080/TVNHD/index.m3u8",
     "logo": "https://raw.githubusercontent.com/CharlesBarreraOlivera/icono-para-iptv/refs/heads/main/tvn.png",
