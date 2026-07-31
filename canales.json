@@ -119,6 +119,12 @@
     "logo": "https://ejemplo.com/logos/tnt.png",
     "categoria": "Noticias"
   },
+  {
+    "nombre": "V Classic TV SD",
+    "url": "https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8",
+    "logo": "https://ejemplo.com/logos/tnt.png",
+    "categoria": "Música"
+  },
     {
     "nombre": "CANAL DE PRUEVA 1",
     "url": "https://raw.githubusercontent.com/bitsbb01/storage/main/vodnew1.m3u",
