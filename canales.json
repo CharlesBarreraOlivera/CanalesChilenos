@@ -126,8 +126,8 @@
     "categoria": "Musica"
   },
     {
-    "nombre": "Retro Music TV",
-    "url": "https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8",
+    "nombre": "Music TV 1",
+    "url": "https://live2.tensila.com/pearl-v-1.pearlfm/hls/live/mystream.m3u8",
     "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/retro-cz.png",
     "categoria": "Musica"
   },
@@ -140,6 +140,12 @@
   {
     "nombre": "70-80 TV HD",
     "url": "https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/retro-cz.png",
+    "categoria": "Musica"
+  },
+  {
+    "nombre": "Activa TV SD",
+    "url": "https://streamtv.mediasector.es/hls/activatv/index.m3u8",
     "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/retro-cz.png",
     "categoria": "Musica"
   },
