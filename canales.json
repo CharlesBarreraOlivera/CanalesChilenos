@@ -1,13 +1,13 @@
 [
   {
     "nombre": "CANAL DE PRUEVA",
-    "url": "http://45.162.193.35/TVN/index.m3u8",
+    "url": "https://iptv2.intersurtv.cl/TVN/index.m3u8?PlaylistM3UCL",
     "logo": "https://raw.githubusercontent.com/CharlesBarreraOlivera/icono-para-iptv/refs/heads/main/tvn.png",
     "categoria": "Chile"
   },
   {
     "nombre": "TVN HD",
-    "url": "http://fortv.cc:8080/live/A5aaXj/235081/164888.m3u8",
+    "url": "https://iptv2.intersurtv.cl/TVN/index.m3u8?PlaylistM3UCL",
     "logo": "https://raw.githubusercontent.com/CharlesBarreraOlivera/icono-para-iptv/refs/heads/main/tvn.png",
     "categoria": "Chile"
   },
