@@ -139,11 +139,11 @@
   },
   {
     "nombre": "Retro Music TV",
-    "url": "https://live.muzickatv.mk/live/StarMusic.m3u8",
+    "url": "http://media.boni-records.com/index.m3u8",
     "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/retro-cz.png",
     "categoria": "Musica"
   },
-    {
+  {
     "nombre": "CANAL DE PRUEVA 1",
     "url": "https://raw.githubusercontent.com/bitsbb01/storage/main/vodnew1.m3u",
     "logo": "https://raw.githubusercontent.com/CharlesBarreraOlivera/icono-para-iptv/refs/heads/main/tvn.png",
