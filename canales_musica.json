@@ -1,1 +1,62 @@
-
+[
+  {
+    "nombre": "V Classic TV SD ✪",
+    "url": "https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/CharlesBarreraOlivera/icono-para-iptv/main/V-Classic-TV.png",
+    "categoria": "Música"
+  },
+    {
+    "nombre": "Retromusica Television",
+    "url": "https://vdochile.com:3864/stream/play.m3u8?PlaylistM3UCL",
+    "logo": "https://raw.githubusercontent.com/CharlesBarreraOlivera/icono-para-iptv/main/Retromusica-Television.png",
+    "categoria": "Música"
+  },
+  {
+    "nombre": "Recuerdos Retro Radio TV",
+    "url": "https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL",
+    "logo": "https://raw.githubusercontent.com/CharlesBarreraOlivera/icono-para-iptv/main/Recuerdos-Retro-Radio-TV.png",
+    "categoria": "Música"
+  },
+  {
+    "nombre": "70-80 TV HD",
+    "url": "https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/CharlesBarreraOlivera/icono-para-iptv/main/70-80-tv.png",
+    "categoria": "Música"
+  },
+  {
+    "nombre": "Activa TV SD",
+    "url": "https://streamtv.mediasector.es/hls/activatv/index.m3u8",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/retro-cz.png",
+    "categoria": "Música"
+  },
+  {
+    "nombre": "Retro Plus TV",
+    "url": "https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8?PlaylistM3UCL",
+    "logo": "https://raw.githubusercontent.com/CharlesBarreraOlivera/icono-para-iptv/main/Retro-Plus-TV.png",
+    "categoria": "Música"
+  },
+  {
+    "nombre": "Retro Plus TV Señal 2",
+    "url": "https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8?PlaylistM3UCL",
+    "logo": "https://raw.githubusercontent.com/CharlesBarreraOlivera/icono-para-iptv/main/Retro-Plus-TV.png",
+    "categoria": "Música"
+  },
+  {
+    "nombre": "Retro Plus TV Señal 3",
+    "url": "https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8?PlaylistM3UCL",
+    "logo": "https://raw.githubusercontent.com/CharlesBarreraOlivera/icono-para-iptv/main/Retro-Plus-TV.png",
+    "categoria": "Música"
+  },
+  {
+    "nombre": "Guns n Roses Fans ✪",
+    "url": "https://stmv6.voxtvhd.com.br/gunsrosesfans/gunsrosesfans/playlist.m3u8?PlaylistM3UCL",
+    "logo": "https://raw.githubusercontent.com/CharlesBarreraOlivera/icono-para-iptv/main/Guns-n-Roses-Fans.png",
+    "categoria": "Música"
+  },
+  {
+    "nombre": "TuTV ✪",
+    "url": "https://vdochile.com:3775/hybrid/play.m3u8?PlaylistM3UCL",
+    "logo": "https://raw.githubusercontent.com/CharlesBarreraOlivera/icono-para-iptv/main/Guns-n-Roses-Fans.png",
+    "categoria": "Música"
+  }
+]
