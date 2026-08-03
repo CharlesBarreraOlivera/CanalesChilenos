@@ -88,11 +88,5 @@
     "url": "https://vdochile.com:3134/stream/play.m3u8",
     "logo": "https://ejemplo.com/logos/lared.png",
     "categoria": "Chile"
-  },
-  {
-    "nombre": "Canal de Prueba",
-    "url": "https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8?PlaylistM3UCL",
-    "logo": "https://ejemplo.com/logos/lared.png",
-    "categoria": "Chile"
   }
 ]
