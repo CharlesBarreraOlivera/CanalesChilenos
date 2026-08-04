@@ -1,5 +1,17 @@
 [
   {
+    "nombre": "TUDN",
+    "url": "http://45.167.2.101:8000/play/a0r4/index.m3u8",
+    "logo": "https://ejemplo.com/logos/canal13.png",
+    "categoria": "Deporte"
+  },
+  {
+    "nombre": "bein SPORTS XTRA ñ",
+    "url": "https://bein-esp-xumo.amagi.tv/playlist.m3u8",
+    "logo": "https://ejemplo.com/logos/canal13.png",
+    "categoria": "Deporte"
+  },
+  {
     "nombre": "TNT Sports SD",
     "url": "http://181.79.87.130:8000/play/a0cl/index.m3u8",
     "logo": "https://ejemplo.com/logos/canal13.png",
@@ -15,6 +27,12 @@
     "nombre": "TNT Sports 2",
     "url": "http://45.181.122.46:8090/play/a04m",
     "logo": "https://ejemplo.com/logos/canal13.png",
+    "categoria": "Deporte"
+  },
+  {
+    "nombre": "TNT Sports Premiun HD",
+    "url": "http://38.226.49.253:8000/play/a06f/index.m3u8",
+    "logo": "https://ejemplo.com/logos/lared.png",
     "categoria": "Deporte"
   },
   {
@@ -36,8 +54,26 @@
     "categoria": "Deporte"
   },
   {
-    "nombre": "TNT Sports Premiun HD",
-    "url": "http://38.226.49.253:8000/play/a06f/index.m3u8",
+    "nombre": "ESPN 5",
+    "url": "http://38.226.49.253:8000/play/a05p/index.m3u8",
+    "logo": "https://ejemplo.com/logos/mega.png",
+    "categoria": "Deporte"
+  },
+  {
+    "nombre": "ESPN 6",
+    "url": "http://38.226.49.253:8000/play/a078/index.m3u8",
+    "logo": "https://ejemplo.com/logos/mega.png",
+    "categoria": "Deporte"
+  },
+  {
+    "nombre": "ESPN 7",
+    "url": "http://38.44.109.41:8003/play/a0hx/index.m3u8",
+    "logo": "https://ejemplo.com/logos/mega.png",
+    "categoria": "Deporte"
+  },
+  {
+    "nombre": "FOX +",
+    "url": "http://181.78.192.238:8000/play/a2hi/index.m3u8",
     "logo": "https://ejemplo.com/logos/lared.png",
     "categoria": "Deporte"
   }
