@@ -1,1 +1,20 @@
-
+[
+  {
+    "nombre": "Sky Sport Arena",
+    "url": "http://antman1.giize.com/live/valeri1./T9KJ65fzceats/136935.ts",
+    "logo": "https://ejemplo.com/logos/canal13.png",
+    "categoria": "Deporte"
+  },
+  {
+    "nombre": "Mega SD",
+    "url": "https://pantera1-100gb-cl-movistar.dps.live/mega/mega.smil/playlist.m3u8",
+    "logo": "https://ejemplo.com/logos/mega.png",
+    "categoria": "Deporte"
+  },
+  {
+    "nombre": "La Chilena TV",
+    "url": "https://vdochile.com:3134/stream/play.m3u8",
+    "logo": "https://ejemplo.com/logos/lared.png",
+    "categoria": "Deporte"
+  }
+]
