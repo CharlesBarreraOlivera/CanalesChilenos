@@ -3,30 +3,30 @@
     "nombre": "Canal prueba 1",
     "url": "https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8",
     "logo": "https://raw.githubusercontent.com/CharlesBarreraOlivera/icono-para-iptv/refs/heads/main/tvn.png",
-    "categoria": "Canal de Prueba"
+    "categoria": "Prueba"
   },
   {
     "nombre": "Canal Prueba 2",
     "url": "https://iptv2.intersurtv.cl/TVN/index.m3u8?PlaylistM3UCL",
     "logo": "https://raw.githubusercontent.com/CharlesBarreraOlivera/icono-para-iptv/refs/heads/main/tvn.png",
-    "categoria": "Canal de Prueba"
+    "categoria": "Prueba"
   },
   {
     "nombre": "Canal Prueba 3",
     "url": "https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8",
     "logo": "https://raw.githubusercontent.com/CharlesBarreraOlivera/icono-para-iptv/main/tv-chile.png",
-    "categoria": "Canal de Prueba"
+    "categoria": "Prueba"
   },
   {
     "nombre": "Canal Prueba 4",
     "url": "https://scl.edge.grupoz.cl/transmision/live/playlist.m3u8",
     "logo": "https://raw.githubusercontent.com/CharlesBarreraOlivera/icono-para-iptv/refs/heads/main/canal-13.png",
-    "categoria": "Canal de Prueba"
+    "categoria": "Prueba"
   },
   {
     "nombre": "Canal Prueba 5",
     "url": "https://vdochile.com:3134/stream/play.m3u8",
     "logo": "https://ejemplo.com/logos/lared.png",
-    "categoria": "Canal de Prueba"
+    "categoria": "Prueba"
   }
 ]
