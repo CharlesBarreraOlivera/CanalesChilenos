@@ -1,6 +1,6 @@
    {
      "version_disponible": 2
-     "notas": "Se agregaron nuevos canales y se corrigió el reproductor.",
+     "notas": "Se agregaron nuevos canales y se corrigió los congelamientos de algunos canales.",
      "url_apk": "https://github.com/CharlesBarreraOlivera/CanalesChilenos/releases/download/v2.6/app-debug.apk",
      "ayuda": "Usa las flechas del control para moverte. Presiona OK para elegir un canal..."
    }
