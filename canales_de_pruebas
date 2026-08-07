@@ -25,7 +25,7 @@
   },
   {
     "nombre": "Canal Prueba 5",
-    "url": "http://iptv.nextnet.krd:25461/nextnet/3738/206",
+    "url": "https://sktv-forwarders.7m.pl/get.php?x=TVN",
     "logo": "https://ejemplo.com/logos/lared.png",
     "categoria": "Prueba"
   }
