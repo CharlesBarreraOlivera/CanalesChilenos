@@ -1,44 +1,44 @@
 [
   {
-    "nombre": "CANAL DE PRUEVA",
-    "url": "https://iptv2.intersurtv.cl/TVN/index.m3u8?PlaylistM3UCL",
-    "logo": "https://canal1.pmg",
+    "nombre": "No Disponible",
+    "url": "https://ejemplo.com/logos/lared.png",
+    "logo": "https://ejemplo.com/logos/lared.png",
     "categoria": "Series"
   },
   {
-    "nombre": "TVN HD",
-    "url": "https://iptv2.intersurtv.cl/TVN/index.m3u8?PlaylistM3UCL",
-    "logo": "https://canal1.pmg",
+    "nombre": "No Disponible",
+    "url": "https://ejemplo.com/logos/lared.png",
+    "logo": "https://ejemplo.com/logos/lared.png",
     "categoria": "Series"
   },
   {
-    "nombre": "TV Chile HD",
-    "url": "https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8",
-    "logo": "https://canal1.pmg",
+    "nombre": "No Disponible",
+    "url": "https://ejemplo.com/logos/lared.png",
+    "logo": "https://ejemplo.com/logos/lared.png",
     "categoria": "Series"
   },
   {
-    "nombre": "Canal 13 HD",
-    "url": "https://scl.edge.grupoz.cl/transmision/live/playlist.m3u8",
-    "logo": "https://canal1.pmg",
+    "nombre": "No Disponible",
+    "url": "https://ejemplo.com/logos/lared.png",
+    "logo": "https://ejemplo.com/logos/lared.png",
     "categoria": "Series"
   },
   {
-    "nombre": "Canal 13C",
-    "url": "https://redirector.dps.live/hls/t13/playlist.m3u8",
-    "logo": "https://canal1.pmg",
+    "nombre": "No Disponible",
+    "url": "https://ejemplo.com/logos/lared.png",
+    "logo": "https://ejemplo.com/logos/lared.png",
     "categoria": "Series"
   },
     {
-    "nombre": "Canal T13 En Vivo",
-    "url": "https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8",
-    "logo": "https://canal1.pmg",
+    "nombre": "No Disponible",
+    "url": "https://ejemplo.com/logos/lared.png",
+    "logo": "https://ejemplo.com/logos/lared.png",
     "categoria": "Series"
   },
   {
-    "nombre": "CANAL DE PRUEVA 1",
-    "url": "https://raw.githubusercontent.com/bitsbb01/storage/main/vodnew1.m3u",
-    "logo": "https://canal1.pmg",
+    "nombre": "No Disponible",
+    "url": "https://ejemplo.com/logos/lared.png",
+    "logo": "https://ejemplo.com/logos/lared.png",
     "categoria": "Series"
   }
 ]
