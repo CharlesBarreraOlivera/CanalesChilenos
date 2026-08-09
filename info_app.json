@@ -1,6 +1,6 @@
 {
   "version_disponible": 9,
   "notas": "Nota: Se agregó una campana de aviso de actualizaciones; cada vez que tengamos algo nuevo, aparecerá la campana de aviso y también se añadieron al menú algunas categorías; Versión 3.1",
-  "url_apk": "https://github.com/CharlesBarreraOlivera/CanalesChilenos/releases/download/v3.1/app-debug.apk",
+  "url_apk": "https://github.com/CharlesBarreraOlivera/CanalesChilenos/releases/download/v3.1/app-release.apk",
   "ayuda": "Usa las flechas del control para moverte. Presiona OK para elegir un canal..."
 }
