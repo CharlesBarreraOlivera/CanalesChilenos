@@ -1,1 +1,38 @@
-
+[
+  {
+    "nombre": "Canal de Peliculas 1",
+    "url": "http://tecnotv.xyz/tvmex/films",
+    "logo": "https://ejemplo.com/logos/canal13.png",
+    "categoria": "Peliculas"
+  },
+  {
+    "nombre": "Canal de Peliculas 2",
+    "url": "http://99.27.51.147:8080/BeinSport/index.m3u8",
+    "logo": "https://ejemplo.com/logos/canal13.png",
+    "categoria": "peliculas"
+  },
+  {
+    "nombre": "Canal de Peliculas 3",
+    "url": "https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8",
+    "logo": "https://ejemplo.com/logos/canal13.png",
+    "categoria": "peliculas"
+  },
+  {
+    "nombre": "Canal de Peliculas 4",
+    "url": "http://45.167.2.101:8000/play/a0r4/index.m3u8",
+    "logo": "https://ejemplo.com/logos/canal13.png",
+    "categoria": "peliculas"
+  },
+  {
+    "nombre": "Canal de Peliculas 5",
+    "url": "https://bein-esp-xumo.amagi.tv/playlist.m3u8",
+    "logo": "https://ejemplo.com/logos/canal13.png",
+    "categoria": "peliculas"
+  },
+  {
+    "Canal de Peliculas 6",
+    "url": "http://181.79.87.130:8000/play/a0cl/index.m3u8",
+    "logo": "https://ejemplo.com/logos/canal13.png",
+    "categoria": "peliculas"
+  }
+]
