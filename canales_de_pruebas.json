@@ -25,7 +25,13 @@
   },
   {
     "nombre": "Canal Prueba 5",
-    "url": "https://sktv-forwarders.7m.pl/get.php?x=TVN",
+    "url": "http://los84hijosdelsol.com/series/MynorOrdonez/PxkvQuPRqF/1186824.avi",
+    "logo": "https://ejemplo.com/logos/lared.png",
+    "categoria": "Prueba"
+  },
+  {
+    "nombre": "Canal Prueba 6",
+    "url": "http://tecnotv.xyz/tvmex/films",
     "logo": "https://ejemplo.com/logos/lared.png",
     "categoria": "Prueba"
   }
