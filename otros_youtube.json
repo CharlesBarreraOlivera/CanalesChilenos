@@ -1,14 +1,1 @@
-[
-  {
-  "nombre": "Nombre del video",
-  "url": "https://www.youtube.com/watch?v=BYoNvJLpjk0",
-  "categoria": "YouTube",
-  "tipo": "youtube"
-  },
-  {
-  "nombre": "Nombre del video",
-  "url": "https://www.youtube.com/embed/hcvtB2ozl84?rel=0&autoplay=1",
-  "categoria": "YouTube",
-  "tipo": "youtube"
-  }
-]
+
