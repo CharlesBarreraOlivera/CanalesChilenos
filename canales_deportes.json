@@ -1,7 +1,13 @@
 [
   {
-    "nombre": "Canal de Prueba 1",
+    "nombre": "Canal de Tennis",
     "url": "http://los84hijosdelsol.com/live/fernawb853/edwasx9647/595919.ts",
+    "logo": "https://ejemplo.com/logos/canal13.png",
+    "categoria": "Deporte"
+  },
+  {
+    "nombre": "Super Tennis (IT)",
+    "url": "https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8",
     "logo": "https://ejemplo.com/logos/canal13.png",
     "categoria": "Deporte"
   },
