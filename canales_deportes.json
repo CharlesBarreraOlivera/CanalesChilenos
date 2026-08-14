@@ -42,25 +42,25 @@
     "categoria": "Deporte"
   },
   {
-    "nombre": "TNT Sports SD",
+    "nombre": "TNT Sports Chile SD",
     "url": "http://181.79.87.130:8000/play/a0cl/index.m3u8",
     "logo": "https://ejemplo.com/logos/canal13.png",
     "categoria": "Deporte"
   },
   {
-    "nombre": "TNT Sports 1",
+    "nombre": "TNT Sports Chile 1",
     "url": "http://38.44.109.41:8003/play/a0g4/index.m3u8",
     "logo": "https://ejemplo.com/logos/canal13.png",
     "categoria": "Deporte"
   },
   {
-    "nombre": "TNT Sports 2",
+    "nombre": "TNT Sports Chile 2",
     "url": "http://45.181.122.46:8090/play/a04m",
     "logo": "https://ejemplo.com/logos/canal13.png",
     "categoria": "Deporte"
   },
   {
-    "nombre": "TNT Sports Premiun HD",
+    "nombre": "TNT Sports Chile Premiun HD",
     "url": "http://38.226.49.253:8000/play/a06f/index.m3u8",
     "logo": "https://ejemplo.com/logos/lared.png",
     "categoria": "Deporte"
