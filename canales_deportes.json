@@ -72,7 +72,7 @@
     "categoria": "Deporte"
   },
   {
-    "nombre": "ESPN 4HD",
+    "nombre": "ESPN 4 HD",
     "url": "http://38.224.231.47:8000/play/a04h/index.m3u8",
     "logo": "https://ejemplo.com/logos/mega.png",
     "categoria": "Deporte"
@@ -84,13 +84,13 @@
     "categoria": "Deporte"
   },
   {
-    "nombre": "ESPN 5",
+    "nombre": "ESPN 6",
     "url": "http://38.226.49.253:8000/play/a05p/index.m3u8",
     "logo": "https://ejemplo.com/logos/mega.png",
     "categoria": "Deporte"
   },
   {
-    "nombre": "ESPN 6",
+    "nombre": "ESPN 5",
     "url": "http://38.226.49.253:8000/play/a078/index.m3u8",
     "logo": "https://ejemplo.com/logos/mega.png",
     "categoria": "Deporte"
