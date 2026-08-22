@@ -1,11 +1,5 @@
 [
   {
-    "nombre": "Radio Kolping ✪",
-    "url": "https://radiokolping.com:8010/radio.mp3",
-    "logo": "https://V-Classic-TV.png",
-    "categoria": "Música"
-  },
-  {
     "nombre": "V Classic TV SD ✪",
     "url": "https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8",
     "logo": "https://raw.githubusercontent.com/CharlesBarreraOlivera/icono-para-iptv/main/V-Classic-TV.png",
