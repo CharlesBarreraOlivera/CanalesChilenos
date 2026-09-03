@@ -19,7 +19,7 @@
   },
   {
     "nombre": "TVN HD PRUEBA",
-    "url": "https://iptv.bitred.cl/tvn/index.m3u8",
+    "url": "https://iptv2.intersurtv.cl/TVN/tracks-v1a1/mono.ts.m3u8",
     "logo": "https://raw.githubusercontent.com/CharlesBarreraOlivera/icono-para-iptv/main/tv-chile.png",
     "categoria": "Chile"
   },
