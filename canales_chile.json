@@ -31,7 +31,7 @@
   },
   {
     "nombre": "Canal 13 HD",
-    "url": "https://redirector.dps.live/hls/13cl/playlist.m3u8",
+    "url": "https://dai.google.com/linear/hls/pa/event/nthipJzGQY-A-N0t6xCZhA/stream/a44afa96-03fe-4de4-90a9-f4b368a45d94:SCL2/variant/6111ad30657a583ad044dfe707c7e95d/bandwidth/2305600.m3u8",
     "logo": "https://raw.githubusercontent.com/CharlesBarreraOlivera/icono-para-iptv/refs/heads/main/canal-13.png",
     "categoria": "Chile"
   },
