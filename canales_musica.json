@@ -54,6 +54,12 @@
     "categoria": "Música"
   },
   {
+    "nombre": "Oli TV ✪",
+    "url": "https://v4.tustreaming.cl/retroplaytv/index.m3u8",
+    "logo": "https://raw.githubusercontent.com/CharlesBarreraOlivera/icono-para-iptv/main/Guns-n-Roses-Fans.png",
+    "categoria": "Música"
+  },
+  {
     "nombre": "TuTV ✪",
     "url": "https://vdochile.com:3775/hybrid/play.m3u8?PlaylistM3UCL",
     "logo": "https://raw.githubusercontent.com/CharlesBarreraOlivera/icono-para-iptv/main/Guns-n-Roses-Fans.png",
