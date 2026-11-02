@@ -1,12 +1,12 @@
 [
   {
-    "nombre": "Canal Prueba 01",
+    "nombre": "TNT Sports Basico",
     "url": "http://181.78.79.131:8000/play/a0mo",
     "logo": "https://ejemplo.com/logos/lared.png",
     "categoria": "Prueba"
   },
   {
-    "nombre": "Canal Prueba 2",
+    "nombre": "TNT Sports Premium",
     "url": "http://181.78.79.131:8000/play/a0q9",
     "logo": "https://ejemplo.com/logos/lared.png",
     "categoria": "Prueba"
