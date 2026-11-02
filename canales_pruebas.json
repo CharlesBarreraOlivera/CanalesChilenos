@@ -1,13 +1,13 @@
 [
   {
     "nombre": "Canal Prueba 01",
-    "url": "",
+    "url": "http://181.78.79.131:8000/play/a0mo",
     "logo": "https://ejemplo.com/logos/lared.png",
     "categoria": "Prueba"
   },
   {
     "nombre": "Canal Prueba 2",
-    "url": "",
+    "url": "http://181.78.79.131:8000/play/a0q9",
     "logo": "https://ejemplo.com/logos/lared.png",
     "categoria": "Prueba"
   }
