@@ -54,8 +54,14 @@
     "categoria": "Deporte"
   },
   {
-    "nombre": "TNT Sports (Chile) (480p)",
-    "url": "http://209.45.101.130:8040/play/a03s/index.m3u8",
+    "nombre": "TNT Sports Basico (Chile)",
+    "url": "http://181.78.79.131:8000/play/a0mo",
+    "logo": "https://ejemplo.com/logos/canal13.png",
+    "categoria": "Deporte"
+  },
+  {
+    "nombre": "TNT Sports Premium (Chile)",
+    "url": "http://181.78.79.131:8000/play/a0q9",
     "logo": "https://ejemplo.com/logos/canal13.png",
     "categoria": "Deporte"
   },
